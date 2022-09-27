@@ -2,6 +2,7 @@ public class Messages1 {
 	public static void main ( String[] arg) { 
 		System.out.println("Welcome To Java");
 		System.out.println(" This is a test file")
+		// This is the first exercises of java lab for 
 		
 	}
 
